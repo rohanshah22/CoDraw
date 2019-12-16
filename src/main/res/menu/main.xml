@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/toggle"
+        app:showAsAction="never"
+        android:title="Toggle Bluetooth" />
+    <item
+        android:id="@+id/discoverable"
+        app:showAsAction="never"
+        android:title="Toggle Discoverable" />
+    <item
+        android:id="@+id/discover"
+        app:showAsAction="never"
+        android:title="Discover Devices" />
+    <item
+        android:id="@+id/startconnection"
+        app:showAsAction="never"
+        android:title="Start Connection" />
+
+
+</menu>
