@@ -1,6 +1,9 @@
 # Android-BT-Drawing
+
 Bluetooth Drawing App for Android
+
 Features: Drawing app with ability to share canvas with other users, change color, stroke length, stroke style, erase, save to gallery
+
 Made By Rohan Shah
 
 Credits:
